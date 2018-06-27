@@ -1,14 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+ "desain": [
+   {
+     "id": 1,
+     "image_url": "https://placehold.it/200x200"
+   }, 
+   {
+     "id": 2,
+     "image_url": "https://placehold.it/300x300"
+   },
+   {
+     "id": 3,
+     "image_url": "https://placehold.it/400x400"
+   },
+   {
+     "id": 4,
+     "image_url": "https://placehold.it/500x500"
+   }
+ ],
+ "images": [
+   {
+    id: 1,
+    image_url: Quinchy,
+    item: 'Quinchy',
+    description: 'Soft, berbulu, nyaman dipakai, dan tidak mengganggu pendengaran',
+    size: [{ id: 1, label: '150x150cm' }, { id: 2, label: '110x150cm' }],
+  }, {
+    id: 2,
+    image_url: Foal,
+    item: 'Foal',
+    description: 'Kaku, mudah dibentuk, dan tidak menggangu pendengaran',
+    size: [{ id: 1, label: '150x150cm' }],
   }
+ ]
 }
