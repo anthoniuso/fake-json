@@ -19,17 +19,17 @@
  ],
  "images": [
    {
-    id: 1,
-    image_url: Quinchy,
-    item: 'Quinchy',
-    description: 'Soft, berbulu, nyaman dipakai, dan tidak mengganggu pendengaran',
-    size: [{ id: 1, label: '150x150cm' }, { id: 2, label: '110x150cm' }],
+    "id": 1,
+    "image_url": "Quinchy",
+    "item": "Quinchy",
+    "description": "Soft, berbulu, nyaman dipakai, dan tidak mengganggu pendengaran",
+    "size": [{ "id": 1, "label": "150x150cm" }, { "id": 2, "label": "110x150cm" }]
   }, {
-    id: 2,
-    image_url: Foal,
-    item: 'Foal',
-    description: 'Kaku, mudah dibentuk, dan tidak menggangu pendengaran',
-    size: [{ id: 1, label: '150x150cm' }],
+    "id": 2,
+    "image_url": "Foal",
+    "item": "Foal",
+    "description": "Kaku, mudah dibentuk, dan tidak menggangu pendengaran",
+    "size": [{ "id": 1, "label": "150x150cm" }]
   }
  ]
 }
