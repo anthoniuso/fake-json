@@ -1,4 +1,4 @@
-{
+s{
  "desain": [
    {
      "id": 1,
@@ -21,7 +21,7 @@
      "price": 35000
    }
  ],
- "images": [
+ "scarfes": [
    {
     "id": 1,
     "image_url": "Quinchy",
