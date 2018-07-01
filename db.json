@@ -1,6 +1,8 @@
 {
- "version": "V1.0",
- "appStoreLink": "https://asdsad",
+ "config": {
+  "version": "V1.0",
+  "appStoreLink": "https://asdsad",
+ },
  "slider_images": [
         "https://www.komers.id/uploads/slides_image/slides_29.jpg",
         "https://www.komers.id/uploads/slides_image/slides_28.jpg",
