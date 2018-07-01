@@ -1,26 +1,16 @@
 {
- "desain": [
-   {
-     "id": 1,
-     "image_url": "https://www.hireanillustrator.com/i/images/2015/09/Bhoid-scarf-design.jpg",
-     "price": 18000
-   }, 
-   {
-     "id": 2,
-     "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9670a119369479.55d0acdf5bf2e.jpg",
-     "price": 0
-   },
-   {
-     "id": 3,
-     "image_url": "https://previews.123rf.com/images/allegretto/allegretto1505/allegretto150500001/39643690-detailed-floral-scarf-design.jpg",
-     "price": 20000
-   },
-   {
-     "id": 4,
-     "image_url": "https://orig00.deviantart.net/0b48/f/2010/275/1/f/silk_scarf_design_2_by_shurka-d2zyv7p.jpg",
-     "price": 35000
-   }
- ],
+ "faq": [
+  {
+  "id": 0,
+  "title": "Apa itu Komers ?",
+  "description": "Komers merupakan sebuah aplikasi yang mempertemukan penjual kain dan penjahit."
+  },
+  {
+  "id": 1,
+  "title": "Bagaimana cara membeli produk di Komers ?",
+  "description": "Anda dapat langsung membeli produk dengan menekan tombol tanya stok saat melihat detil dari produk yang langsung menghubungkan anda dengan staff Komers."
+  }
+],
  "scarfs": [
    {
     "id": 1,
