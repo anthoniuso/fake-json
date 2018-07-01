@@ -1,4 +1,12 @@
 {
+ "version": "V1.0",
+ "appStoreLink": "https://asdsad",
+ "slider_images": [
+        'https://www.komers.id/uploads/slides_image/slides_29.jpg',
+        'https://www.komers.id/uploads/slides_image/slides_28.jpg',
+        'https://www.komers.id/uploads/slides_image/slides_26.jpg',
+        'https://www.komers.id/uploads/slides_image/slides_27.jpg',
+],
  "faq": [
   {
   "id": 0,
